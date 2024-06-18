@@ -1,1 +1,1 @@
-## Student Performence Prediction using Machine Learning
+## Academic Performence Prediction using Machine Learning
